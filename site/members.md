@@ -238,6 +238,12 @@ members:
   name: Daksh
   github: Daksh
   skills: C, Python
+  
+- email: sonali18317
+  name: Sonali Singhal
+  github: Sonalisinghal
+  skills: C, Web Development, Python
+
 
 - email: deepak16030
   name: Deepak Magesh Srivatsav
